@@ -1,0 +1,540 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+
+.header1{
+    background:#fff;
+    width: 100%;
+    height: 70px;
+}
+
+    
+
+.header1 img{
+    padding-top: 2vh;
+    padding-left: 1%;
+    width: 125px;
+    height: 40px;
+}
+.header1head{
+   width: 500px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 545px;
+    bottom: 70px;
+    font-size: 25px;
+    font-family: Mozilla Text, Inter, Helvetica Neue, Arial, X-LocaleSpecific,
+    
+}
+.header1head1{
+    position: relative;
+    right: 40px;
+}
+.header1head2{
+    position: relative;
+    left: 18px;
+}
+.header1head3{
+    position: relative;
+    left: 70px;
+}
+.firefox-1{
+margin-left: 17%;
+    padding-top: 4%;
+    width: 100px;
+    height: 25px;
+}
+.image-head{
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+   width: 70px;
+   margin-left: 75px;
+}
+.header1 a{
+    font-size: 22px;
+    text-decoration: none;
+   padding-left:2vh;
+    letter-spacing: 1px;
+    margin-right: 150px;
+    font: bold;
+    padding-left: 0;
+    margin-left: 0;
+    color: #000;
+    font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
+    font-weight: 460;
+    margin: 0 0 .5em;
+    height: 40px;
+}
+.header2{
+    
+   background: #f0ecec;
+    
+    width: 100%;
+    height: 70px;
+
+}
+.firefox-2{
+   
+    width: 32px;
+    height: 20px;
+    margin-left: 42px;
+   position: relative;
+   bottom: -22px;
+
+}
+
+ .fire{
+    font: bold;
+    width: 100px;
+    font-weight: 500;
+    height: 100px;
+
+}
+.header2 a{
+    color: black;
+    text-decoration: none;
+    width: 24px;
+    height: 50px;
+    padding-right: 100px;
+    
+   
+}
+.header2head{
+   display: flex;
+   flex-direction: row;
+   gap: 15px;
+   color: #000;
+   margin-left: 845px;
+  position: relative;
+  bottom: 10px;
+}
+
+
+.header3{
+    width: 1255px;
+    height: 300px;
+    background: #fff;
+}
+.firefox-3{
+    padding-top: 5%;
+    padding-left: 48%;
+    width: 50px;
+    height: 50px;
+}
+
+.header3 h3{
+   width: 450px;
+    color: #000;
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+    font-size: 3rem;
+    line-height: 1.5;
+    position: relative;
+    right: -442px;
+    bottom: 43px;
+}
+.header3 h4{
+   color: #000;
+   font-family: Inter, X-LocaleSpecific, sans-serif;
+   font-size: 16px;
+   font-size: 35px;
+   position: relative;
+   left: 383px;
+   bottom: 71px;
+   width: 650px;
+}
+
+h4 {
+   display: block;
+   margin-block-start: 1.33em;
+   margin-block-end: 1.33em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+   font-weight: bold;
+   unicode-bidi: isolate;
+width: 550px;
+}
+.section-two{
+  width: 1100px;
+  height: 210px;
+    background:#fff;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+   
+   }
+.image-container{
+   display: flex;
+   flex-direction: row;
+   width: 1255px;
+   height: 230px;
+   gap: 100px;
+   margin-left: 80px;
+  margin-bottom: 40px;
+   }
+.image1{
+   width: 300px;
+   height: 210px;
+}
+.image2{
+    width: 300px;
+    height: 210px;
+}
+.image3{
+    width: 300px;
+    height: 210px;
+}
+
+.heading-section{
+   width: 1152px;
+   height: 30px;
+   display: flex;
+   flex-direction: row;
+   gap: 310px;
+   font-size: 23px;
+   font-family: Inter, X-LocaleSpecific,sans-serif;
+   color: #000;
+   margin-left: 80px;
+   margin-bottom: 20px;
+}
+.heading-3{
+   margin-left: 50px;
+}
+ 
+.para{
+    width: 1100px;
+    
+    display: flex;
+    flex-direction: row;
+    background:#fff;
+    gap: 120px;
+    padding-left: 80px;
+    font-size: 17px;
+    height: 100px;
+   margin-bottom: 200px;
+   padding-top: 2px;
+    font-family: Inter, X-LocaleSpecific,sans-serif;
+
+
+}
+
+
+
+.button{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+   left: 70px;
+    bottom: 190px;
+    background:white;
+    
+   width: 48%;
+
+ }
+ .button1,.button2{
+    position: relative;
+    left: 10px;
+    border-radius: 8px;
+    
+    width: 280px;
+    height: 40px;
+    color: #166fe5;
+font-size: 15px;
+font: bold;
+font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-weight: 700;
+    background: white;
+    border: 2px solid #cdcdd4;
+    
+   }
+   .button1{
+    padding-right:110px ;
+    padding-top: 10px;
+   }
+   .button1:hover{
+      background-color: rgb(250, 244, 244);
+    }   
+ .button2{
+    position: relative;
+    left:110px;
+    width: 310px;
+ }
+ .button2:hover{
+   background-color: rgb(250, 244, 244);
+ }   
+ .icon-d{
+   position: relative;
+   left: 170px;
+   bottom: 20px;
+   width: 25px;
+   height: 25px;
+ }
+ .links{
+   width: 1255px;
+   height: 30px;
+    display: flex;
+    flex-direction: row;
+    color: #166fe5;
+    position: relative;
+    bottom: 160px;
+   
+   background: #fff;
+    font-size: 15px;
+font: bold;
+font-weight: 300;
+font-family: Inter, X-LocaleSpecific, sans-serif;
+ 
+ }
+ .links-1{
+position: relative;
+left: 80px;
+ }
+ .links-2{
+   position: relative;
+   left: 390px;
+ }
+ .links-3{
+   position: relative;
+   bottom: 70px;
+   left: 730px;
+ }
+ .links-4{
+   position: relative;
+   bottom: 40px;
+   left: 595px;
+ }
+
+ 
+
+ 
+ .section-three{
+    width: 90%;
+    height: 530px;
+    background: #000;
+    border-radius: 15px;
+    margin-top: -130px;
+    margin-left: 60px;
+    position: relative;
+    top: 30px;
+ }
+ .section-three h1{
+     color: #f0ecec;
+    font-size: 60px;
+    padding-top: 50px;
+    padding-left: 70px;
+    font-family: Zilla Slab, Inter, X-LocaleSpecific, sans-serif;
+    
+ }
+ .gradient{
+    background: linear-gradient(90deg, #ffd741 19%, #ff4540 42%, #f26fff 63%, #9a53fa 80%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgba(0, 0, 0, 0);
+ }
+ .section-three img{
+width: 45px;
+margin-top: 0;
+position: relative;
+top: -150px;
+left: 740px;
+
+ }
+ .one,.two,.three,.four,.five{
+    padding-right:20px;
+   
+ }
+ .form{
+   width: 1100px;
+    position: relative;
+    bottom: 60px;
+    left: 17px;
+ }
+ 
+ .form h3{
+    color: #fff;
+    padding-left: 27px;
+   
+ }
+ .form input{
+   
+    width: 30%;
+    height: 14px;
+    color:black;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 13px;
+    cursor: pointer;
+padding-left: 30px;
+margin-left: 50px;
+}
+ 
+ 
+ .form button{
+    width: 35%;
+    height: 42px;
+    color: #fff;
+    font-size: 21px;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: -3px;
+    cursor: pointer;
+    background: #166fe5;
+    padding-left: 20px;
+    margin-left: 50px;
+   ;
+ }
+ .form p{
+    color: white;
+  font-size: 14px;
+   position: relative; 
+   right: -47px;
+   bottom: 0px;
+ }
+ .form h6{
+    color: #fff;
+    font-size: 14px;
+    padding-left: 50px;
+    padding-bottom: -5px;
+    position: relative;
+    top: 20px;
+    
+ }
+ .section-four{
+    width: 100%;
+    height: 950px;
+    background-color:black;
+margin-top: 60px;
+   display: flex;
+   flex-direction: column;
+   color: white;
+   font-size: 14px;
+   position: relative;
+   top: 50px;
+ }
+ .column1,.column2,.column3,.column4{
+    float: left;
+    width: 20%;
+    height: 10%;
+    color: white;
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+ }
+ .column1{
+    position: relative;
+    top: 70px;
+    margin-left: 111px;
+    right: 50px;
+ }
+ .column2{
+    position: relative;
+    top: -26px;
+    right: -189px;
+ }
+ .column3{
+    position: relative;
+    bottom: 120px;
+    left: 350px;
+    width: 40%;
+    height: 20px;
+ }
+ 
+ .column4{
+    position: relative;
+    bottom: 138px;
+    left: 600px;
+    
+ }
+ .column5{
+   width: 200px;
+   height: 25px;
+   position: relative;
+   left: 970px;
+   bottom: 230px;
+ }
+ .twitter{
+   width: 30px;
+   height: 30px;
+   
+ }
+ .buttons{
+    position: relative;
+    top: 150px;
+   
+   
+ }
+ .button-one,.button-two{
+    background: #000;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-color: #fff;
+    font-family: Inter, X-LocaleSpecific, sans-serif;
+    font-size: 16px;
+ }
+ .button-one:hover{
+   background: white;
+   color:black;
+ }
+ 
+ .button-two{
+    border-color: black;
+    position: relative;
+     left: 980px;
+ }
+ .button-one{
+    position: relative;
+    left: 40px;
+ }
+ .line{
+   
+   border-color: rgb(87, 84, 84);
+   border-style: double;
+   position: relative;
+   top: 30px;
+   width: 95%;
+ }
+ .paragraph{
+   font-family: Mozilla Text, Inter, Helvetica Neue, Arial, X-LocaleSpecific, sans-serif;
+   font-size: 5px;
+   position: relative;
+   right: 470px;
+   bottom: -15px;
+ }
+ .mozilla-big{
+   width: 95%;
+   position: relative;
+   top: 100px;
+   left: 35px;
+
+ }
+ .foot-1,.foot-2,.foot-3,.foot-4,.foot-5{
+   color: #fff;
+   font-size: 15px;
+   font: bold;
+   font-family: Mozilla Text, Inter, Helvetica Neue, Arial, X-LocaleSpecific, sans-serif;
+   position: relative;
+   top: 70px;
+   left: 800px;
+ }
+ .foot-2{
+   position: relative;
+   left: 820px;
+ }
+ .foot-3{
+   position: relative;
+   left: 850px;
+ }
+ .foot-4{
+   position: relative;
+   left: 550px;
+   top: 93px;
+ }
+ .foot-5{
+   position: relative;
+   left: 570px;
+   top: 93px;
+ }
+ 
